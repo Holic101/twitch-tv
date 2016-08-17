@@ -1,0 +1,42 @@
+body {
+  background-color: #C5D4D9;
+}
+
+#streamer {
+  background-color: #214173;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 25px;
+  letter-spacing: 1px;
+}
+
+#headline {
+  font-family: Verdana;
+  font-size: 52px;
+  font-weight: bold;
+  color: lightblue;
+  letter-spacing: 1px;
+}
+
+.streamerStyle{
+  background-color: #21732A;
+  text-align: center;
+  }
+.streamerStyle:hover{
+  border-left: solid 5px #214173;
+}
+
+.singleStreamer{
+  margin: 10px;
+}
+
+img {
+  float: left;
+  width: 60px;
+  margin: 7px;
+}
+
+.streamerText {
+  font-family: Verdana;
+  color: lightblue;
+}
